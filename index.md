@@ -20,9 +20,10 @@
 
 ## Skills
 
-- Skills in:
-  - OpenRefine
-  - Git/GitHub
+- OpenRefine
+- Markdown
+- Git/GitHub
+- Open research
 
 ## External roles
 - Member, Library Carpentry Governance Group 2018.
@@ -48,12 +49,5 @@
 - (2008) Henty, Margaret, Weaver, Belinda, Bradbury, Stephanie and Porter, Simon *Investigating Data Management Practices in Australian Universities*, Canberra: Australian Partnership for Sustainable Repositories. {Available online}(https://www.apsr.edu.au/investigating_data_management)
 - (2003) *Catch the Wave: How to Find Good Information on the Internet Fast*, Melbourne: RMIT Publishing.
 - (2003) ‘The computer as an essential tool’ in *Journalism: investigation and research*, Stephen Tanner (ed.), Sydney: Pearson Education, 2003.
-
-
-
-
-
-
-
 
 This page was last updated {{ site.datelastupdated }} .
