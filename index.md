@@ -45,6 +45,15 @@
 - Weaver’s Web columnist for the ALIA journal, *inCite*, 1997-2001. 
 - Experienced book and copy editor.
 
+## Selected publications
+- (2019) *The efficacy and usefulness of Software Carpentry training: a follow up cohort study.* MPhil Thesis, School of ITEE, The University of Queensland. [Available online:](https://espace.library.uq.edu.au/view/UQ:3bcd280). 
+- (2018) Kari L. Jordan, François Michonneau, Belinda Weaver *Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys.* The Carpentries,  17 July. [Available online](https://carpentries.github.io/assessment/learner-assessment/reports/2018-07-learners-pre-post-surveys.pdf).
+- (2017) Kari L. Jordan, Ben Marwick, Belinda Weaver, Naupaka Zimmerman, Jason Williams, Tracy Teal, Erin Becker, Jonah Duckles, Beth Duckles, Elizabeth Wickes. *Analysis of the Carpentries’ Long-Term Feedback Survey.* Software Carpentry,  October 2017. [Available online](https://carpentries.github.io/ assessment/learner-assessment/archives/2017/reports/longtermreport_October2017.pdf).
+- (2008) *‘”We have just entered the Wright Brothers phase of the digital era”:   data management and practice in the eResearch era’* – paper presented to the Oxford eResearch Conference, The University of Oxford, Oxford, UK, 11-13 September [paper co-authored with Margaret Henty].
+- (2008) Henty, Margaret, Weaver, Belinda, Bradbury, Stephanie and Porter, Simon *Investigating Data Management Practices in Australian Universities*, Canberra: Australian Partnership for Sustainable Repositories. {Available online}(https://www.apsr.edu.au/investigating_data_management)
+- (2003) *Catch the Wave: How to Find Good Information on the Internet Fast*, Melbourne: RMIT Publishing.
+- (2003) ‘The computer as an essential tool’ in *Journalism: investigation and research*, Stephen Tanner (ed.), Sydney: Pearson Education, 2003.
+
 ## Past Employment
 
 |The University of Queensland | Manager, UQ eSpace repository | 2001 - 2008 |
@@ -65,14 +74,5 @@
 | Stanton Library, North Sydney | Various positions including Head of Technical Services | 1978 - June, 1985 |
 | Alexander Mackie School of Art, Sydney | Library Officer | 1976 - 1978 |
 | The University of Queensland | Library Assistant | July, 1973 -  1975 |
-
-## Selected publications
-- (2019) *The efficacy and usefulness of Software Carpentry training: a follow up cohort study.* MPhil Thesis, chool of ITEE, The University of Queensland. 
-- (2018) Kari L. Jordan, François Michonneau, Belinda Weaver *Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys.* The Carpentries,  17 July. [Available online](https://carpentries.github.io/assessment/learner-assessment/reports/2018-07-learners-pre-post-surveys.pdf).
-- (2017) Kari L. Jordan, Ben Marwick, Belinda Weaver, Naupaka Zimmerman, Jason Williams, Tracy Teal, Erin Becker, Jonah Duckles, Beth Duckles, Elizabeth Wickes. *Analysis of the Carpentries’ Long-Term Feedback Survey.* Software Carpentry,  October 2017. [Available online](https://carpentries.github.io/ assessment/learner-assessment/archives/2017/reports/longtermreport_October2017.pdf).
-- (2008) *‘”We have just entered the Wright Brothers phase of the digital era”:   data management and practice in the eResearch era’* – paper presented to the Oxford eResearch Conference, The University of Oxford, Oxford, UK, 11-13 September [paper co-authored with Margaret Henty].
-- (2008) Henty, Margaret, Weaver, Belinda, Bradbury, Stephanie and Porter, Simon *Investigating Data Management Practices in Australian Universities*, Canberra: Australian Partnership for Sustainable Repositories. {Available online}(https://www.apsr.edu.au/investigating_data_management)
-- (2003) *Catch the Wave: How to Find Good Information on the Internet Fast*, Melbourne: RMIT Publishing.
-- (2003) ‘The computer as an essential tool’ in *Journalism: investigation and research*, Stephen Tanner (ed.), Sydney: Pearson Education, 2003.
 
 This page was last updated {{ site.datelastupdated }} .
