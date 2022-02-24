@@ -10,7 +10,7 @@
 | Diploma of Project Management | Australian Institute of Management | 2008 |
 | Master of Philosophy | The University of Queensland          | 2019 |
 
-## Employment
+## Current and Recent Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Head, Academic Engamenent Service, Library        |2019 - Present|
@@ -21,24 +21,6 @@
 |The University of Queensland | Manager, Research Data Collections | March, 2011 – April, 2012  |
 |The University of Queensland | Manager, Biological Sciences Library | January, 2010 – March, 2011  |
 |The University of Queensland | Project Manager, UQ International | 2008 - 2009 |
-|The University of Queensland | Manager, UQ eSpace | 2001 - 2008 |
-|The University of Queensland | Liaison Librarian | 1998 - 2000 |
-|The University of Queensland | Coordinator, UQL Pathways | 1997 |
-|The University of Queensland | Librarian | 1996 |
-|Tertiary Entrance Procedures Authority | Librarian |  December, 1995 – January, 1996 |
-| Queensland Performing Arts Trust | Acting Librarian/Archivist |  October - November, 1995 |
-| London Institute | Systems Assistant | 1993 -  1995 |
-| Central St Martin’s College of Art & Design | Bibliographic and Systems Librarian | 1992 |
-| VINE, a quarterly library automation journal | Editor | May, 1991 - March, 1992 |
-| Middlesex Polytechnic | Library Analyst and Training Officer | September, 1990 - April, 1991 |
-| BLCMP Library Services Ltd | Systems documentation writer | March, 1990 - June, 1990 |
-| Australian Film, Television and Radio School | Librarian | January, 1990 |
-| City of London Libraries | Systems Librarian | March, 1988 - December, 1989 |
-| North West Thames Regional Health Authority, London | Librarian | January, 1987 - March, 1988 |
-| Amarc Data International Pty Ltd, Sydney | Library Consultant | July, 1985 - February, 1986 |
-| Stanton Library, North Sydney | Various positions including Head of Technical Services | 1978 - June, 1985 |
-| Alexander Mackie School of Art, Sydney | Library Officer | 1976 - 1978 |
-| The University of Queensland | Library Assistant | July, 1973 -  1975 |
 
 ## Skills
 
@@ -62,6 +44,27 @@
 - Weekly Internet columnist, *The Courier-Mail*, 2001-2006.
 - Weaver’s Web columnist for the ALIA journal, *inCite*, 1997-2001. 
 - Experienced book and copy editor.
+
+## Past Employment
+
+|The University of Queensland | Manager, UQ eSpace repository | 2001 - 2008 |
+|The University of Queensland | Liaison Librarian | 1998 - 2000 |
+|The University of Queensland | Coordinator, UQL Pathways Internet Training Service | 1997 |
+|The University of Queensland | Librarian | 1996 |
+|Tertiary Entrance Procedures Authority | Librarian |  December, 1995 – January, 1996 |
+| Queensland Performing Arts Trust | Acting Librarian/Archivist |  October - November, 1995 |
+| London Institute | Systems Assistant | 1993 -  1995 |
+| Central St Martin’s College of Art & Design | Bibliographic and Systems Librarian | 1992 |
+| VINE, a quarterly library automation journal | Editor | May, 1991 - March, 1992 |
+| Middlesex Polytechnic | Library Analyst and Training Officer | September, 1990 - April, 1991 |
+| BLCMP Library Services Ltd | Systems documentation writer | March, 1990 - June, 1990 |
+| Australian Film, Television and Radio School | Librarian | January, 1990 |
+| City of London Libraries | Systems Librarian | March, 1988 - December, 1989 |
+| North West Thames Regional Health Authority, London | Librarian | January, 1987 - March, 1988 |
+| Amarc Data International Pty Ltd, Sydney | Library Consultant | July, 1985 - February, 1986 |
+| Stanton Library, North Sydney | Various positions including Head of Technical Services | 1978 - June, 1985 |
+| Alexander Mackie School of Art, Sydney | Library Officer | 1976 - 1978 |
+| The University of Queensland | Library Assistant | July, 1973 -  1975 |
 
 ## Selected publications
 - (2019) *The efficacy and usefulness of Software Carpentry training: a follow up cohort study.* MPhil Thesis, chool of ITEE, The University of Queensland. 
