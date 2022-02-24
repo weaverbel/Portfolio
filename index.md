@@ -46,6 +46,7 @@
 - Experienced book and copy editor.
 
 ## Selected publications
+- (2020) Weaver B. & Richardson, J. "Reinventing Library Research Support Services at Griffith University", in *Cases on Research Support Services in Academic Libraries*, edited by Fernandez-Marcial V & Gonzalez-Solar L., pp. 267-289. IGI Global. DOI: [10.4018/978-1-7998-4546-1.ch012](https://dx.doi.org/10.4018/978-1-7998-4546-1.ch012).
 - (2019) *The efficacy and usefulness of Software Carpentry training: a follow up cohort study.* MPhil Thesis, School of ITEE, The University of Queensland. [Available online:](https://espace.library.uq.edu.au/view/UQ:3bcd280). 
 - (2018) Kari L. Jordan, François Michonneau, Belinda Weaver *Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys.* The Carpentries,  17 July. [Available online](https://carpentries.github.io/assessment/learner-assessment/reports/2018-07-learners-pre-post-surveys.pdf).
 - (2017) Kari L. Jordan, Ben Marwick, Belinda Weaver, Naupaka Zimmerman, Jason Williams, Tracy Teal, Erin Becker, Jonah Duckles, Beth Duckles, Elizabeth Wickes. *Analysis of the Carpentries’ Long-Term Feedback Survey.* Software Carpentry,  October 2017. [Available online](https://carpentries.github.io/ assessment/learner-assessment/archives/2017/reports/longtermreport_October2017.pdf).
