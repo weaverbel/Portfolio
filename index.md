@@ -10,7 +10,7 @@
 | Diploma of Project Management | Australian Institute of Management | 2008 |
 | Master of Philosophy | The University of Queensland          | 2019 |
 
-## Current and Recent Employment
+## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Head, Academic Engamenent Service, Library        |2019 - Present|
