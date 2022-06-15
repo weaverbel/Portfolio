@@ -34,7 +34,7 @@
 - Fellow, Python Software Foundation, 2017.
 - Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
 - ALIA Queensland Library Achiever of the Year, 2003.
-- 
+
 ## External roles
 - Member, Library Carpentry Governance Group 2018.
 - Community-elected member, Software Carpentry Steering Committee (2016, 2017).
