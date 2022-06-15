@@ -25,7 +25,7 @@ body {
 .Namdiv {
   padding: 6px 8px 6px 16px;
   color: {{ site.colour2 }};
-  text-align: center;
+  text-align: left;
   font-size: 25px;
   font-family: Helvetica;
 }
@@ -33,7 +33,7 @@ body {
 .Descdiv {
   padding: 6px 8px 6px 16px;
   color: {{ site.colour2 }};
-  text-align: center;
+  text-align: left;
   font-size: 22px;
   font-family: Helvetica;
 }
