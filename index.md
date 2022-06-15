@@ -5,7 +5,7 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Griffith University      | Head, Academic Engamenent Service, Library        |2019 - Present|
+| Griffith University      | Head, Academic Engagement Services, Library        |2019 - Present|
 | The Carpentries | Community and Communications Lead | 2017 - 2019 |
 | QCIF | eResearch Analyst Team Leader |2013 - 2017|
 | QCIF | Training Coordinator |2012 - 2013 |
