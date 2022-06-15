@@ -7,8 +7,8 @@
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Griffith University      | Head, Academic Engagement Services, Library        |2019 - Present|
 | The Carpentries | Community and Communications Lead | 2017 - 2019 |
-| QCIF | eResearch Analyst Team Leader |2013 - 2017|
-| QCIF | Training Coordinator |2012 - 2013 |
+| Queensland Cyber Infrastructure Foundation | eResearch Analyst Team Leader |2013 - 2017|
+| Queensland Cyber Infrastructure Foundation | Training Coordinator |2012 - 2013 |
 | AustLit | Senior Project Officer  | 2012 - 2013 |
 |The University of Queensland | Manager, Research Data Collections | March, 2011 – April, 2012  |
 |The University of Queensland | Manager, Biological Sciences Library | January, 2010 – March, 2011  |
