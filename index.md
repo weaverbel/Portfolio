@@ -1,14 +1,6 @@
 
 {% include sidebar.html %}
 
-## Education
-
-| ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Arts | The University of Queensland          | 1976 |
-| Registration Certificate | Library Association of Australia |  1979 |
-| Graduate Certificate in Journalism | The University of Queensland  | 2001 |
-| Diploma of Project Management | Australian Institute of Management | 2008 |
-| Master of Philosophy | The University of Queensland          | 2019 |
 
 ## Employment
 
@@ -29,14 +21,24 @@
 - Git/GitHub
 - Open research
 
+## Education
+
+| ------------------------------------- | ------------------------------------------- | ----- |
+| Bachelor of Arts | The University of Queensland          | 1976 |
+| Registration Certificate | Library Association of Australia |  1979 |
+| Graduate Certificate in Journalism | The University of Queensland  | 2001 |
+| Diploma of Project Management | Australian Institute of Management | 2008 |
+| Master of Philosophy | The University of Queensland          | 2019 |
+
+## Awards
+- Fellow, Python Software Foundation, 2017.
+- Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
+- ALIA Queensland Library Achiever of the Year, 2003.
+- 
 ## External roles
 - Member, Library Carpentry Governance Group 2018.
 - Community-elected member, Software Carpentry Steering Committee (2016, 2017).
 - Member of the Collections Advisory Group, State Library of Queensland, 2006-2009.
-
-## Awards
-- ALIA Queensland Library Achiever of the Year, 2003.
-- Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
 
 ## Other skills
 - Certified Software Carpentry / Data Carpentry instructor (2015).
