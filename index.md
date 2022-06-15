@@ -74,7 +74,5 @@
 | North West Thames Regional Health Authority, London | Librarian | January, 1987 - March, 1988 |
 | Amarc Data International Pty Ltd, Sydney | Library Consultant | July, 1985 - February, 1986 |
 | Stanton Library, North Sydney | Various positions including Head of Technical Services | 1978 - June, 1985 |
-| Alexander Mackie School of Art, Sydney | Library Officer | 1976 - 1978 |
-| The University of Queensland | Library Assistant | July, 1973 -  1975 |
 
 This page was last updated {{ site.datelastupdated }} .
