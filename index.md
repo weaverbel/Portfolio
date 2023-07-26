@@ -5,7 +5,7 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Griffith University      | Head, Academic Engagement Services, Library        |2019 - Present|
+| Griffith University      | Head, Academic Engagement Services, Library        |2019 - 2023|
 | The Carpentries | Community and Communications Lead | 2017 - 2019 |
 | Queensland Cyber Infrastructure Foundation | eResearch Analyst Team Leader |2013 - 2017|
 | Queensland Cyber Infrastructure Foundation | Training Coordinator |2012 - 2013 |
@@ -29,6 +29,7 @@
 | Graduate Certificate in Journalism | The University of Queensland  | 2001 |
 | Diploma of Project Management | Australian Institute of Management | 2008 |
 | Master of Philosophy | The University of Queensland          | 2019 |
+| Diploma in Science (Graduate entry) | The University of Queensland          | 2023- |
 
 ## Awards
 - Fellow, Python Software Foundation, 2017.
